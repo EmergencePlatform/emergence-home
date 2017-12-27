@@ -1,0 +1,3 @@
+x-activeRecord: Emergence\Skeletons\Skeleton
+description: |
+  Tracks the hostname and optional public key of a code source designed to serve as a starting point for building and deploying applications.
