@@ -18,6 +18,10 @@ class Skeleton extends \ActiveRecord
         'PublicKey' => [
             'type' => 'string',
             'default' => null
+        ],
+        'RepositoryUrl' => [
+            'type' => 'string',
+            'default' => null
         ]
     ];
 
