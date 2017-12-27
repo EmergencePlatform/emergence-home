@@ -1,0 +1,3 @@
+x-activeRecord: Emergence\Layers\Layer
+description: |
+  Tracks the handle and repository URL of a code source designed to serve as an added layer to an application.

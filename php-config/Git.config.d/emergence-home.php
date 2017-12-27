@@ -14,6 +14,11 @@ Git::$repositories['emergence-home'] = [
         'php-classes/Emergence/Skeletons',
         'site-root/skeletons.php',
 
+        // layers
+        'api-docs/definitions/Emergence/Layers',
+        'php-classes/Emergence/Layers',
+        'site-root/layers.php',
+
         // public api
         'site-root/skeletons.json.php'
     ]
