@@ -20,4 +20,9 @@ class Skeleton extends \ActiveRecord
             'default' => null
         ]
     ];
+
+    public static function getByHostname($hostname)
+    {
+        return static::getByField('Hostname', $hostname);
+    }
 }
